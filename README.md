@@ -18,7 +18,11 @@ Northern Shield: Scaling AI-assisted pest and disease identification (FMD, Fire 
 Agentic Safety: Eliminating "Diagnostic Hallucination" through verifiable Bayesian fusion and expert-consensus mapping.
 
 Mathematical Geometry: HERO 93 and Glyph Exploring the Root 42 / Root 51 framework and the Platonic Man (the ideal 93-point solid).
+Math Primitives https://hero93.web.app/   https://glyph.web.app/     https://www.youtube.com/watch?v=UoDEynVtBe4
 
 📍 Location & Agency
 Cairns, Queensland, Australia | The Northern Sentinel Hub
-Agency: Influential.Digital | Clinical: AIVET.dev
+Agency: Influential.Digital | Research: https://hardcard.org/
+
+Clinical : AIVA.vet • AIVET.dev • VetSorcery.com • Vetnotes.meClinical: AIVET.dev
+
