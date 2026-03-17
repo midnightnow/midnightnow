@@ -3,6 +3,16 @@
 
 Principal Systems Architect specializing in **High-Compliance Autonomous Agents**, **OneHealth Biosecurity**, and **Local-First AI Orchestration**. With 25 years of clinical veterinary expertise and 15 years in full-stack development, I build resilient "Northern Shield" infrastructure for high-stakes, low-connectivity environments.
 
+## 🛡️ Biosecurity & OneHealth Applications
+**Northern Shield**: Local-first AI surveillance for high-consequence pests/diseases (FMD, Fire Ants, Spiralling Whitefly). Built on VetSorcery's problem-oriented case management, adapted for field biosecurity reporting in low-connectivity environments (Torres Strait, Cape York).
+
+**AIVET Multimodal Capture**: Voice/video recognition for hands-free field documentation. Enables rapid triage and automated clinical data capture for:
+- Emergency Animal Disease detection
+- Invasive species monitoring  
+- Remote workforce extension support
+
+*All systems designed for edge deployment with sovereign data controls.*
+
 ---
 
 ### 🛠️ Strategic Infrastructure (The Sentinel Stack)
