@@ -14,7 +14,7 @@ Principal Systems Architect specializing in **High-Compliance Autonomous Agents*
 ### 🔭 Current Research & Deployment
 * **Northern Shield:** Scaling AI-assisted pest and disease identification (FMD, Fire Ants, Spiralling Whitefly) for Northern Australia biosecurity.
 * **Agentic Safety:** Eliminating "Diagnostic Hallucination" through verifiable Bayesian fusion and expert-consensus mapping.
-* **Mathematical Geometry:** HERO 93 and Glyph. Exploring the Root 42 / Root 51 framework and the Platonic Man (the ideal 93-point solid).
+* **Mathematical Geometry:** HERO 93 and Glyph. Exploring the Root 42 / Root 51 framework and emergent primitive graphs revealed by Hardcard including HERO 93 (the ideal 93-point solid).
     * **Primitives:** [HERO 93](https://hero93.web.app/) • [Glyph](https://glyph.web.app/) • [Video Overview](https://www.youtube.com/watch?v=UoDEynVtBe4)
 
 ### 📍 Location & Agency
