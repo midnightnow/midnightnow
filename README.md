@@ -19,10 +19,6 @@ Building resilient infrastructure for high-stakes environments where connectivit
 
 ## 🛡️ **Featured Projects**
 
-### [**Hardcard**](https://github.com/midnightnow/hardcard) ⚡
-**Math-Based Identity & Proof Layer for AI**
-Ed25519 identity and cryptographic "Proof of Reasoning" for autonomous actors. Enables agents to own their identity, prove their work, and participate in verifiable economies.
-`#math-based` `#cryptographic-proof` `#autonomous-agents`
 
 ### [**Alexandria**](https://github.com/midnightnow/alexandria) 🏛️
 **AI-Powered Scientific Integrity**
@@ -38,6 +34,11 @@ FastAPI service returning validation scores, peer review counts, and dispute fla
 **Open-Source Primitives for Interspecies Communication**
 The Eyes (grimace detection), Ears (vocalization analysis), and Brain (Bayesian fusion) for decoding animal welfare signals. Named for the doctor who could talk to animals.
 `#animal-welfare` `#bayesian-fusion` `#bioacoustics`
+
+### [**Hardcard**](https://github.com/midnightnow/hardcard) ⚡
+**Math-Based Identity & Proof Layer for AI**
+Ed25519 identity and cryptographic "Proof of Reasoning" for autonomous actors. Enables agents to own their identity, prove their work, and participate in verifiable economies.
+`#math-based` `#cryptographic-proof` `#autonomous-agents`
 
 ### [**VetNotes**](https://github.com/midnightnow/vetnotes-web) 📋
 **Clinical Documentation for High-Compliance Environments**
