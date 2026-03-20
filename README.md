@@ -1,6 +1,6 @@
 # 🏛️ Agentic Intelligence & Clinical AI Architecture
 **Dr. Dallas McMillan | BVSc, BSc**
-# 🏛️ Dr. Dallas McMillan | BVSc, BSc
+# 🏛️ Dr. Dallas McMillan | BVSc, BSc(Veterinary)
 
 **Principal Systems Architect** specializing in High-Compliance Autonomous Agents, OneHealth Biosecurity, and Local-First AI Orchestration.
 
